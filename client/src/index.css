@@ -60,16 +60,31 @@ body {
   border: 1px solid grey;
   padding: 5px 10px;
   background-color: lightseagreen;
+  
 }
+
+.delete {
+  top: 170px;
+}
+
+
+.update {
+  top:100px;
+  text-decoration: none;
+}
+
+
 .save-button:hover {
   background-color: green;
   color: white;
 }
 
+
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
 
 .movie-warning {
   color: red;
